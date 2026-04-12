@@ -1,0 +1,13 @@
+{
+  "sector_avg_repayment_rate": 0.72,
+  "sector_default_rate": 0.28,
+  "best_quartile_repayment": 0.9,
+  "worst_quartile_repayment": 0.58,
+  "downpayment_threshold_high": 0.1,
+  "downpayment_threshold_low": 0.05,
+  "typical_contract_months_range": [
+    12,
+    36
+  ],
+  "lockout_trigger_days": 3
+}
