@@ -1,7 +1,7 @@
 # PayGo Clean Cookstove — Market Entry Analysis
 **Kenya · Uganda · Tanzania · Ethiopia**
 
-> A end-to-end portfolio project replicating the analytical workflow of a BI Manager at a PayGo energy company (e.g. M-KOPA, BURN, Sun King). Three interconnected modules — market sizing, credit risk scoring, and churn prediction — converging on a single market-entry recommendation.
+> An end-to-end portfolio project replicating the analytical workflow of a BI Manager at a PayGo energy company (e.g. M-KOPA, BURN, Sun King). Three interconnected modules — market sizing, credit risk scoring, and churn prediction — converging on a single market-entry recommendation.
 
 ---
 
@@ -116,14 +116,14 @@ No public PayGo customer transaction dataset exists — real companies treat thi
 
 ## Relevance
 
-This analysis directly mirrors internal BI workflows at M-KOPA, BURN Manufacturing, and Sun King (which acquired PayGo Energy in 2023). These companies are actively hiring data and analytics roles in Nairobi. The three modules map to the three analytical domains most assessed in BI Manager interviews in this sector: market intelligence, credit modelling, and customer analytics.
+Market intelligence, credit modelling and customer analytics are the three analytical questions behind most growth decisions in PayGo energy. This project works through all three with public data and a simulated customer ledger, and brings them together in one market-entry recommendation.
 
 ---
 
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/paygo-cookstove-market-entry.git
+git clone https://github.com/EricNjiraini/paygo-cookstove-market-entry.git
 cd paygo-cookstove-market-entry
 pip install -r requirements.txt
 jupyter lab
