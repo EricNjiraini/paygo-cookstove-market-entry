@@ -1,7 +1,7 @@
 # PayGo Clean Cookstove — Market Entry Analysis
 **Kenya · Uganda · Tanzania · Ethiopia**
 
-> An end-to-end portfolio project replicating the analytical workflow of a BI Manager at a PayGo energy company (e.g. M-KOPA, BURN, Sun King). Three interconnected modules — market sizing, credit risk scoring, and churn prediction — converging on a single market-entry recommendation.
+> An end-to-end portfolio project replicating the analytical workflow of a BI Manager at a PayGo energy company (e.g. M-KOPA, Sun King). Three interconnected modules — market sizing, credit risk scoring, and churn prediction — converging on a single market-entry recommendation.
 
 ---
 
